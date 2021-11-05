@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LeapYears" tests="14" skipped="0" failures="0" errors="0" timestamp="2021-11-05T06:00:18" hostname="LAPTOP-P3VS71JE" time="0.264">
+  <properties/>
+  <testcase name="Years_Dividable_By_Four_Are_Leap_Years()" classname="LeapYears" time="0.053"/>
+  <testcase name="Years_Not_Dividable_By_Four_Are_Not_Leap_Years()" classname="LeapYears" time="0.003"/>
+  <testcase name="Years_Dividable_By_Hundred_Are_Not_Leap_Years()" classname="LeapYears" time="0.001"/>
+  <testcase name="[1] true, 2020" classname="LeapYears" time="0.066"/>
+  <testcase name="[2] false, 2021" classname="LeapYears" time="0.002"/>
+  <testcase name="[3] true, 1964" classname="LeapYears" time="0.004"/>
+  <testcase name="[4] false, 1850" classname="LeapYears" time="0.002"/>
+  <testcase name="[5] false, 1200" classname="LeapYears" time="0.001"/>
+  <testcase name="[6] false, 2002" classname="LeapYears" time="0.002"/>
+  <testcase name="[7] false, 1700" classname="LeapYears" time="0.001"/>
+  <testcase name="[8] false, 1800" classname="LeapYears" time="0.001"/>
+  <testcase name="[9] false, 1900" classname="LeapYears" time="0.001"/>
+  <testcase name="[10] true, 2000" classname="LeapYears" time="0.002"/>
+  <testcase name="Years_Dividable_By_Four_Hundred_Are_Leap_Years()" classname="LeapYears" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
